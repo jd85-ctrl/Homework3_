@@ -87,5 +87,7 @@ p{
 }
 
 .pokemon-image a{
-    color: black;
+    color: #5B2C83;
+    font-weight: bold;
+    text-decoration: underline;
 }
